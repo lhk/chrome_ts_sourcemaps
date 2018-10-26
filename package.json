@@ -1,0 +1,19 @@
+{
+  "name": "chrome_ts_sourcemaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhk/chrome_ts_sourcemaps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhk/chrome_ts_sourcemaps/issues"
+  },
+  "homepage": "https://github.com/lhk/chrome_ts_sourcemaps#readme"
+}
