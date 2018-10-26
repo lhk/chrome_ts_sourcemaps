@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/lhk/chrome_ts_sourcemaps/issues"
   },
-  "homepage": "https://github.com/lhk/chrome_ts_sourcemaps#readme"
+  "homepage": "https://github.com/lhk/chrome_ts_sourcemaps#readme",
+  "devDependencies": {
+    "parcel-plugin-web-extension": "^1.4.0",
+    "typescript": "^3.1.3"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
 }
